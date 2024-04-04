@@ -1,9 +1,9 @@
 ---
-title: "Loja de Baterias com entrega rápida"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Precisando de bateria?"
+subtitle: Oferecemos entrega e instalação rápidas e grátis
+image: /img/home-bateria.svg
 blurb:
-    heading: Why Kaldi?
+    heading: Quem somos?
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
 intro:
     heading: "What we offer"
