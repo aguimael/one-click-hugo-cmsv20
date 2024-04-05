@@ -17,6 +17,6 @@ editor:
   default_path:
 source_editor:
   tab_size: 2
-  theme: one-click-hugo-cms
+  theme: monokai
   show_gutter: true
 timezone: Etc/UTC
