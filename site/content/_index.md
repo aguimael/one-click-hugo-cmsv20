@@ -9,33 +9,20 @@ blurb:
         especialistas na área de baterias, proporcionando soluções confiáveis e
         de alta qualidade no mercado de comercialização de baterias.
 intro:
-    heading: What we offer
+    heading: Baterias
     text: >-
-        Kaldi is the ultimate spot for coffee lovers who want to learn about
-        their java’s origin and support the farmers that grew it. We take coffee
-        production, roasting and brewing seriously and we’re glad to pass that
-        knowledge to anyone.
+        Na CL Baterias, você encontra uma vasta seleção de baterias de carro, start-stop, moto, estacionárias, e náuticas a preços competitivos. Oferecemos entrega e instalação gratuitas, destacando-nos como sua melhor opção para qualidade, durabilidade, e preço justo em baterias. Visite-nos e descubra a solução ideal para você.
 products:
     -
         image: img/illustrations-coffee.svg
         text: >-
-            We sell green and roasted coffee beans that are sourced directly
-            from independent farmers and farm cooperatives. We’re proud to offer
-            a variety of coffee beans grown with great care for the environment
-            and local communities. Check our post or contact us directly for
-            current availability.
+            Compreendemos que o preço da bateria é um fator crucial na sua decisão de compra. É por isso que nos esforçamos para oferecer preços de bateria altamente competitivos, combinados com ofertas exclusivas que certamente irão surpreendê-lo.
     -
         image: /img/illustrations-coffee-gear.svg
         text: >-
-            We offer a small, but carefully curated selection of brewing gear
-            and tools for every taste and experience level. No matter if you
-            roast your own beans or just bought your first french press, you’ll
-            find a gadget to fall in love with in our shop.
+            Venha descobrir por que somos líderes de mercado e a melhor escolha para quem busca qualidade, durabilidade e preço justo em baterias. Visite a CL Baterias hoje mesmo e deixe-nos ajudá-lo a encontrar a solução perfeita em bateria.
 values:
-    heading: Our values
+    heading: Nossos valores
     text: >-
-        Coffee is an amazing part of human culture but it has a dark side too –
-        one of colonialism and mindless abuse of natural resources and human
-        lives. We want to turn this around and return the coffee trade to the
-        drink’s exhilarating, empowering and unifying nature.
+        Na CL Baterias, nos comprometemos com atendimento de excelência, produtos de alta qualidade, práticas sustentáveis e transparência total, visando a confiança e o respeito mútuo com clientes e o cuidado com o meio ambiente.
 ---
