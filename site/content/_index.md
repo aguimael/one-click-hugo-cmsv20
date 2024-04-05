@@ -1,6 +1,6 @@
 ---
 title: Precisando de bateria?
-subtitle: Oferecemos entrega e instalação rápidas e grátis
+subtitle: Entrega e instalação rápidas e gratuita
 image: /img/home-bateria.svg
 blurb:
     heading: Quem somos?
