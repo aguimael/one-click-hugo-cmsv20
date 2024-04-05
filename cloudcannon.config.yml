@@ -1,0 +1,22 @@
+output: dist
+paths:
+  data: data
+  collections: content
+  layouts: layouts
+  static: static
+  uploads: static/uploads
+  includes: layouts
+  source: ''
+  archetypes: archetypes
+  assets: assets
+  content: content
+  pages: content
+  publish: public
+  config: ''
+editor:
+  default_path:
+source_editor:
+  tab_size: 2
+  theme: one-click-hugo-cms
+  show_gutter: true
+timezone: Etc/UTC
