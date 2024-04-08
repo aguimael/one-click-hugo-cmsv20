@@ -277,8 +277,7 @@ models:
       - type: string
         name: blurb
         label: Blurb
-  webpack:
-    type: data
+  type: data
     label: Webpack
     file: site\data\webpack.json
     fields:
@@ -300,12 +299,12 @@ models:
             name: js
             label: Js
       - type: object
-        name: ''
-        label: ''
+        name: additional
+        label: Additional Configurations
         fields:
           - type: string
             name: html
-            label: Html
+            label: HTML
           - type: string
             name: keep
             label: Keep
