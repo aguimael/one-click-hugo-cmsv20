@@ -1,4 +1,10 @@
 export default {
-    stackbitVersion: '~0.6.0',
-    ssgName: 'nextjs',
+    mapModels({ models }) {
+      return models.map((model) => {
+        return {
+          ...model,
+          // Add or adjust model properties ...
+        }
+      })
+    },
   }
