@@ -1,14 +1,11 @@
 ---
-title: Our Coffee
+title: Bateria de carro
 type: products
 image: /img/products-jumbotron.jpg
 intro:
-  heading: What we offer
+  heading: Comprar bateria de carro
   description: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee production,
-    roasting and brewing seriously and we’re glad to pass that knowledge to
-    anyone.
+    Procurando uma bateria nova para seu carro? Oferecemos uma ampla variedade de baterias de alta qualidade para garantir que seu veículo esteja sempre pronto para rodar. Venha nos visitar e encontre a bateria perfeita para seu carro com o melhor preço do mercado!
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
@@ -38,7 +35,7 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
 main:
-  heading: Great coffee with no compromises
+  heading: Marcas de baterias para carros
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
