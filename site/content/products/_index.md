@@ -43,31 +43,29 @@ full_image: /img/products-full-width.jpg
 pricing:
   heading: Preço de baterias
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Compre baterias para seu carro e pague em até 10x sem juros nos cartões. Além disso, aproveite nossa promoção de entrega e instalação totalmente gratuitas. Não perca essa oportunidade de garantir mais praticidade e segurança para o seu veículo com total comodidade!
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Baterias para carros
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans
-        - One or two varieties of beans
-      plan: Small
-      price: '50'
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+        - Entrega e instalação gratis
+        - Até 10x sem juros
+        - Baterias originais
+      plan: A partir de
+      price: '299'
+    - description: Bateria Start-Stop
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Entrega e instalação gratis
+        - Até 10x sem juros
+        - Baterias originais
+      plan: A partir de
+      price: '499'
+    - description: Bateria linha pesada
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - Entrega e instalação gratis
+        - Até 10x sem juros
+        - Baterias originais
+      plan: A partir de
+      price: '599'
 ---
 
 
