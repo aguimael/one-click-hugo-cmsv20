@@ -1,4 +1,4 @@
-source: /
+source: site
 paths:
   data: data
   collections: content
@@ -6,18 +6,37 @@ paths:
   layouts: layouts
   static: static
   uploads: static/uploads
-  source: ''
+  source: site
   archetypes: archetypes
   assets: assets
   content: content
   pages: content
   publish: public
   config: ''
-editor:
-  default_path:
-source_editor:
-  tab_size: 2
-  theme: monokai
-  show_gutter: true
+collections_config:
+  pages:
+    path: content
+    url: '/[relative_base_path]'
+    output: true
+    filter: strict
+    parse_branch_index: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  post:
+    path: content/post
+    output: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  data:
+    path: data
+    output: false
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+data_config: {}
 timezone: Etc/UTC
-collections_config_override: false
