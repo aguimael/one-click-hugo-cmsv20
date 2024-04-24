@@ -1,22 +1,25 @@
 ---
-title: "Values"
+title: "Marcas de baterias"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Baterias Moura"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      A Baterias Moura é uma empresa brasileira
+      fundada em 1957, conhecida por produzir
+      baterias de alta qualidade para diversos tipos  
+      de veículos, incluindo carros, motos,
+      acaminhões e também para aplicações em
+      sistemas de energia solar e estacionários
     imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+  - heading: "Baterias Pioneiro"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
+      A Bateria Pioneiro é uma empresa brasileira que atua 
+      no mercado desde 1966, destacando-se na fabricação 
+      de baterias automotivas e estacionárias. 
+      Com tecnologia de ponta, qualidade e durabilidade, 
+      a Pioneiro oferece soluções confiáveis 
+      para diversas aplicações, atendendo às necessidades 
+      dos consumidores com eficiência e excelência.
     imageUrl: "/img/about-single-origin.jpg"
   - heading: "Sustainable farming"
     text: >
