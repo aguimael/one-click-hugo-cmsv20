@@ -43,7 +43,7 @@ main:
     image: /uploads/bateria-moto.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /uploads/cliente-feliz-grid.webp
 testimonials:
   - author: Gabriel nascimento vitor
     quote: >-
