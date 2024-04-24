@@ -55,7 +55,7 @@ testimonials:
     quote: >-
       Atendimento muito bom,foi atendido pela Cássia,fez um preço muito bom na
       bateria e a troca foi rápida...
-full_image: /img/products-full-width.jpg
+full_image: /uploads/loja-de-bterias.jpg
 pricing:
   heading: Preço de baterias
   description: >-
