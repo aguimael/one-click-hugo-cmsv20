@@ -1,28 +1,28 @@
 ---
-title: Bateria de carro
+title: Baterias
 type: products
 image: /img/products-jumbotron.jpg
 intro:
-  heading: Comprar bateria de carro
+  heading: Dê partida com a CL Baterias!
   description: >-
-    Procurando uma bateria nova para seu carro? Oferecemos uma ampla variedade de baterias de alta qualidade para garantir que seu veículo esteja sempre pronto para rodar. Venha nos visitar e encontre a bateria perfeita para seu carro com o melhor preço do mercado!
+    Bateria de Carro: A CL Baterias garante a partida rápida e confiável do seu carro, com a tecnologia de chumbo-ácido mais avançada do mercado.
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-       Todas as nossas marcas de baterias são fabricadas com os mais altos padrões de qualidade, garantindo desempenho confiável e durabilidade excepcional.
+       Bateria de Moto: Desfrute da liberdade e aventura com a bateria ideal para sua motocicleta, proporcionando energia para longas viagens e pilotagem segura.
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        Temos baterias para todos os modelos e marcas de carros, garantindo que você encontrará a bateria perfeita para o seu veículo. Oferecemos as melhores ofertas, garantindo que você obtenha a melhor bateria pelo melhor preço.
+        Bateria Estacionária: Tenha energia limpa e constante para sua casa ou empresa com as baterias estacionárias da CL Baterias, perfeitas para sistemas de energia solar e backup.
     - image: /img/illustrations-tutorials.svg
       text: >
-        Na nossa loja, estamos comprometidos em fornecer o melhor atendimento ao cliente e as melhores soluções para suas necessidades de bateria de carro. Venha nos visitar hoje mesmo e deixe nossa equipe ajudá-lo a encontrar a bateria perfeita para o seu veículo.
+        Bateria de Linha Pesada: Mantenha seus veículos pesados sempre em movimento com as baterias de linha pesada da CL Baterias, projetadas para alta corrente de partida e confiabilidade duradoura.
     - image: /img/illustrations-meeting-space.svg
       text: >
         Em nossa loja, entendemos a importância de uma bateria confiável para a segurança e desempenho do seu veículo. Por isso, oferecemos apenas produtos testados e aprovados, com garantia de qualidade que só nossa experiência no mercado pode oferecer.
 main:
-  heading: Marcas de baterias para carros
+  heading: A CL Baterias é a sua parceira completa em energia
   description: >
-    Quando se trata de manter seu carro em perfeito estado de funcionamento, escolher a bateria certa é crucial. Duas marcas que se destacam no mercado de baterias automotivas são a Moura e a Pioniero. Ambas são reconhecidas por sua qualidade superior, confiabilidade e inovação tecnológica.
+    Variedade de marcas e modelos: Encontre a bateria ideal para sua necessidade e orçamento com nossa ampla variedade de produtos. Preço competitivo: Oferecemos o melhor custo-benefício do mercado, sem comprometer a qualidade.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg

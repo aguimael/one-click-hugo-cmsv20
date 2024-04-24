@@ -1,5 +1,5 @@
 ---
-title: "Marcas de baterias"
+title: "Marcas"
 image: /img/about-jumbotron.jpg
 values:
   - heading: "Baterias Moura"
