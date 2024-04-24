@@ -8,22 +8,22 @@ intro:
     Bateria de Carro: A CL Baterias garante a partida rápida e confiável do seu
     carro, com a tecnologia de chumbo-ácido mais avançada do mercado.
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /uploads/produto-bateria-moto.png
       text: >
         Bateria de Moto: Desfrute da liberdade e aventura com a bateria ideal
         para sua motocicleta, proporcionando energia para longas viagens e
         pilotagem segura.
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /uploads/produto-bateria-carro.png
       text: >
         Bateria Estacionária: Tenha energia limpa e constante para sua casa ou
         empresa com as baterias estacionárias da CL Baterias, perfeitas para
         sistemas de energia solar e backup.
-    - image: /img/illustrations-tutorials.svg
+    - image: /uploads/produto-bateria-caminhao.png
       text: >
         Bateria de Linha Pesada: Mantenha seus veículos pesados sempre em
         movimento com as baterias de linha pesada da CL Baterias, projetadas
         para alta corrente de partida e confiabilidade duradoura.
-    - image: /img/illustrations-meeting-space.svg
+    - image: /uploads/produto-qualidade.png
       text: >
         Em nossa loja, entendemos a importância de uma bateria confiável para a
         segurança e desempenho do seu veículo. Por isso, oferecemos apenas
