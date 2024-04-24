@@ -1,11 +1,13 @@
 ---
-title: Contact
+title: Contato
 logo: /img/logo.svg
 contact_entries:
   - heading: Lojas
     text: Av. Ver. João de Luca, 1020 - B - Jardim Prudência
   - heading: Horário de atendimento
     text: 'Segunda – Sexta: 8AM – 17PM Sabado: 8AM - 14PM aos domingos - fechado'
+  - heading: ''
+    text: ''
 ---
 Adoraríamos entrar em contato com você e ouvir suas ideias e
 questões. Nós nos esforçamos para crescer e melhorar constantemente e seu feedback
