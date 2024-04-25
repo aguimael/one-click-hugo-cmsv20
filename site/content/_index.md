@@ -25,7 +25,7 @@ products:
             oferecer preços de bateria altamente competitivos, combinados com
             ofertas exclusivas que certamente irão surpreendê-lo.
     -
-        image: /img/illustrations-coffee-gear.svg
+        image: /uploads/produto-bateria-moto.svg
         text: >-
             Bateria de moto: Venha descobrir por que somos líderes de mercado e
             a melhor escolha para quem busca qualidade, durabilidade e preço
