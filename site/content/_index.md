@@ -18,14 +18,14 @@ intro:
         Visite-nos e descubra a solução ideal para você.
 products:
     -
-        image: /uploads/produto-bateria-carro.svg
+        image: /uploads/produto-bateria-carro-1.svg
         text: >-
             Bateria de carro: Compreendemos que o preço da bateria é um fator
             crucial na sua decisão de compra. É por isso que nos esforçamos para
             oferecer preços de bateria altamente competitivos, combinados com
             ofertas exclusivas que certamente irão surpreendê-lo.
     -
-        image: /uploads/produto-bateria-moto.svg
+        image: /uploads/produto-bateria-moto-1.svg
         text: >-
             Bateria de moto: Venha descobrir por que somos líderes de mercado e
             a melhor escolha para quem busca qualidade, durabilidade e preço
