@@ -13,7 +13,7 @@ intro:
         Bateria de Moto: Desfrute da liberdade e aventura com a bateria ideal
         para sua motocicleta, proporcionando energia para longas viagens e
         pilotagem segura.
-    - image: /uploads/produto-bateria-moto-1.svg
+    - image: /uploads/produto-bateria-estacionaria.svg
       text: >
         Bateria Estacionária: Tenha energia limpa e constante para sua casa ou
         empresa com as baterias estacionárias da CL Baterias, perfeitas para
@@ -23,7 +23,7 @@ intro:
         Bateria de Linha Pesada: Mantenha seus veículos pesados sempre em
         movimento com as baterias de linha pesada da CL Baterias, projetadas
         para alta corrente de partida e confiabilidade duradoura.
-    - image: /uploads/produto-qualidade.svg
+    - image: /uploads/produto-qualidade-1.svg
       text: >
         Em nossa loja, entendemos a importância de uma bateria confiável para a
         segurança e desempenho do seu veículo. Por isso, oferecemos apenas
