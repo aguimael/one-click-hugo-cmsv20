@@ -31,15 +31,6 @@ products:
             a melhor escolha para quem busca qualidade, durabilidade e preço
             justo em baterias. Visite a CL Baterias hoje mesmo e deixe-nos
             ajudá-lo a encontrar a solução perfeita em bateria.
-    -
-        image: ''
-        text: 'Bateria Start-Stop:'
-    -
-        image: ''
-        text: 'Bateria linha pesada: '
-    -
-        image: ''
-        text: 'Bateria estacionaria: '
 values:
     heading: Nossos valores
     text: >-
