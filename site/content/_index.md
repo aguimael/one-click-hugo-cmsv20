@@ -18,7 +18,7 @@ intro:
         Visite-nos e descubra a solução ideal para você.
 products:
     -
-        image: img/illustrations-coffee.svg
+        image: /uploads/produto-bateria-carro.svg
         text: >-
             Bateria de carro: Compreendemos que o preço da bateria é um fator
             crucial na sua decisão de compra. É por isso que nos esforçamos para
