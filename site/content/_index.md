@@ -11,18 +11,40 @@ blurb:
 intro:
     heading: Baterias
     text: >-
-        Na CL Baterias, você encontra uma vasta seleção de baterias de carro, start-stop, moto, estacionárias, e náuticas a preços competitivos. Oferecemos entrega e instalação gratuitas, destacando-nos como sua melhor opção para qualidade, durabilidade, e preço justo em baterias. Visite-nos e descubra a solução ideal para você.
+        Na CL Baterias, você encontra uma vasta seleção de baterias de carro,
+        start-stop, moto, estacionárias, e náuticas a preços competitivos.
+        Oferecemos entrega e instalação gratuitas, destacando-nos como sua
+        melhor opção para qualidade, durabilidade, e preço justo em baterias.
+        Visite-nos e descubra a solução ideal para você.
 products:
     -
         image: img/illustrations-coffee.svg
         text: >-
-            Compreendemos que o preço da bateria é um fator crucial na sua decisão de compra. É por isso que nos esforçamos para oferecer preços de bateria altamente competitivos, combinados com ofertas exclusivas que certamente irão surpreendê-lo.
+            Bateria de carro: Compreendemos que o preço da bateria é um fator
+            crucial na sua decisão de compra. É por isso que nos esforçamos para
+            oferecer preços de bateria altamente competitivos, combinados com
+            ofertas exclusivas que certamente irão surpreendê-lo.
     -
         image: /img/illustrations-coffee-gear.svg
         text: >-
-            Venha descobrir por que somos líderes de mercado e a melhor escolha para quem busca qualidade, durabilidade e preço justo em baterias. Visite a CL Baterias hoje mesmo e deixe-nos ajudá-lo a encontrar a solução perfeita em bateria.
+            Bateria de moto: Venha descobrir por que somos líderes de mercado e
+            a melhor escolha para quem busca qualidade, durabilidade e preço
+            justo em baterias. Visite a CL Baterias hoje mesmo e deixe-nos
+            ajudá-lo a encontrar a solução perfeita em bateria.
+    -
+        image: ''
+        text: 'Bateria Start-Stop:'
+    -
+        image: ''
+        text: 'Bateria linha pesada: '
+    -
+        image: ''
+        text: 'Bateria estacionaria: '
 values:
     heading: Nossos valores
     text: >-
-        Na CL Baterias, nos comprometemos com atendimento de excelência, produtos de alta qualidade, práticas sustentáveis e transparência total, visando a confiança e o respeito mútuo com clientes e o cuidado com o meio ambiente.
+        Na CL Baterias, nos comprometemos com atendimento de excelência,
+        produtos de alta qualidade, práticas sustentáveis e transparência total,
+        visando a confiança e o respeito mútuo com clientes e o cuidado com o
+        meio ambiente.
 ---
