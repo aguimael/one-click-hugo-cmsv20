@@ -33,7 +33,6 @@ products:
             ajudá-lo a encontrar a solução perfeita em bateria.
 values:
     heading: Nossos valores
-    image: /img/sobre-clbaterias.svg
     text: >-
         Na CL Baterias, nos comprometemos com atendimento de excelência,
         produtos de alta qualidade, práticas sustentáveis e transparência total,
