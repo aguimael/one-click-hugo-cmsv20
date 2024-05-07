@@ -17,13 +17,13 @@ values:
       Pioneiro oferece soluções confiáveis  para diversas aplicações, atendendo
       às necessidades  dos consumidores com eficiência e excelência.
     imageUrl: /img/sobre-pioniero.svg
-  - heading: Sustainable farming
+  - heading: Outras marcas
     text: >
       Sustainable agriculture is farming in sustainable ways based on an
       understanding of ecosystem services, the study of relationships between
       organisms and their environment. What grows where and how it is grown are
       a matter of choice and careful consideration for nature and communities.
-    imageUrl: /img/about-sustainable-farming.jpg
+    imageUrl: /img/sobre-outras-marcas.svg
   - heading: Direct sourcing
     text: >
       We want to truly empower the communities that bring amazing coffee to you.
