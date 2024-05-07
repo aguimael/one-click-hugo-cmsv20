@@ -16,7 +16,7 @@ values:
       estacionárias.  Com tecnologia de ponta, qualidade e durabilidade,  a
       Pioneiro oferece soluções confiáveis  para diversas aplicações, atendendo
       às necessidades  dos consumidores com eficiência e excelência.
-    imageUrl: /img/sobre-pioniero.svg
+    imageUrl: /img/sobre-pioneiro.svg
   - heading: Outras marcas
     text: >
       Sustainable agriculture is farming in sustainable ways based on an
