@@ -1,6 +1,6 @@
 ---
 title: Marcas
-image: /img/about-jumbotron.jpg
+image: /uploads/sobre-marca.svg
 values:
   - heading: Baterias Moura
     text: >
@@ -8,7 +8,7 @@ values:
       produzir baterias de alta qualidade para diversos tipos   de veículos,
       incluindo carros, motos, acaminhões e também para aplicações em sistemas
       de energia solar e estacionários
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: /img/sobre-moura.svg
   - heading: Baterias Pioneiro
     text: >
       A Bateria Pioneiro é uma empresa brasileira que atua  no mercado desde
