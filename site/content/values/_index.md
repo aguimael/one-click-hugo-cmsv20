@@ -24,7 +24,7 @@ values:
       organisms and their environment. What grows where and how it is grown are
       a matter of choice and careful consideration for nature and communities.
     imageUrl: /img/sobre-outras-marcas.svg
-  - heading: Direct sourcing
+  - heading: Pagamento facilitado
     text: >
       We want to truly empower the communities that bring amazing coffee to you.
       That’s why we reinvest 20% of our profits into farms, local businesses and
