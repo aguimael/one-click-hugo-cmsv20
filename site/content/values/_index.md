@@ -24,12 +24,12 @@ values:
       veículo com tecnologia start-stop. Visite nossa loja física ou solicite um
       orçamento em nosso atendimento. 
     imageUrl: /img/sobre-outras-marcas.svg
-  - heading: Pagamento facilitado
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+  - heading: ' Cansado de pagar caro por bateria?'
+    text: >-
+      Aqui você encontra o melhor preço da região para bateria do seu carro, com
+      pagamento em até 10x sem juros no cartão. 💳  Não perca tempo! Aproveite
+      essa oferta incrível e economize muito na hora de trocar a bateria do seu
+      carro.
     imageUrl: /img/sobre-clbaterias.svg
   - heading: Instalação rápida
     text: >
