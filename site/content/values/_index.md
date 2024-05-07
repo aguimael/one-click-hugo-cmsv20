@@ -31,11 +31,7 @@ values:
       essa oferta incrível e economize muito na hora de trocar a bateria do seu
       carro.
     imageUrl: /img/sobre-clbaterias.svg
-  - heading: Instalação rápida
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+  - heading: Bateria nova no carro sem stress? Só na CL Baterias!
+    text: ' Bateria nova no carro sem stress? Só na CL Baterias! 🚗💨 Chega de perder tempo e se preocupar com a troca da bateria do seu carro! Na CL Baterias, oferecemos entrega e instalação grátis e rápida, feita por profissionais altamente qualificados. '
     imageUrl: /img/sobre-instalacao.svg
 ---
