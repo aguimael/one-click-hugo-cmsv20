@@ -18,11 +18,11 @@ values:
       às necessidades  dos consumidores com eficiência e excelência.
     imageUrl: /img/sobre-pioneiro.svg
   - heading: Outras marcas
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
+    text: >-
+      A CL Baterias oferece uma ampla variedade de baterias originais para
+      atender às suas necessidades, seja você dono de um carro, caminhão ou
+      veículo com tecnologia start-stop. Visite nossa loja física ou solicite um
+      orçamento em nosso atendimento. 
     imageUrl: /img/sobre-outras-marcas.svg
   - heading: Pagamento facilitado
     text: >
