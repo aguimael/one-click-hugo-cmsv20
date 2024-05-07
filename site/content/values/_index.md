@@ -32,6 +32,6 @@ values:
       carro.
     imageUrl: /img/sobre-clbaterias.svg
   - heading: Bateria nova no carro sem stress? Só na CL Baterias!
-    text: ' Bateria nova no carro sem stress? Só na CL Baterias! 🚗💨 Chega de perder tempo e se preocupar com a troca da bateria do seu carro! Na CL Baterias, oferecemos entrega e instalação grátis e rápida, feita por profissionais altamente qualificados. '
+    text: ' Chega de perder tempo e se preocupar com a troca da bateria do seu carro! Na CL Baterias, oferecemos entrega e instalação grátis e rápida, feita por profissionais altamente qualificados. '
     imageUrl: /img/sobre-instalacao.svg
 ---
