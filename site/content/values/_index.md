@@ -8,7 +8,7 @@ values:
       produzir baterias de alta qualidade para diversos tipos   de veículos,
       incluindo carros, motos, acaminhões e também para aplicações em sistemas
       de energia solar e estacionários
-    imageUrl: /img/sobre-moura.svg
+    imageUrl: /img/sobre-pioneiro.svg
   - heading: Baterias Pioneiro
     text: >
       A Bateria Pioneiro é uma empresa brasileira que atua  no mercado desde
