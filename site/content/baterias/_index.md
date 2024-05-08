@@ -1,6 +1,6 @@
 ---
 title: Baterias
-type: products
+type: Baterias
 image: /uploads/baterias.jpg
 intro:
   heading: Dê partida com a CL Baterias!
