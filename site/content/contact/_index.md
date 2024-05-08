@@ -1,6 +1,6 @@
 ---
 title: Contato
-logo: /img/logo.svg
+logo: /img/logo-cl.svg
 contact_entries:
   - heading: Loja Jardim Prudência
     text: Av. Ver. João de Luca, 1020 - B - Jardim Prudência
