@@ -10,6 +10,9 @@ contact_entries:
     text: 'Segunda – Sexta: 8AM – 17PM Sabado: 8AM - 14PM aos domingos - fechado'
   - heading: ''
     text: ''
+contact_entries:
+  - heading: Campo Belo
+    text: Rua Édison, 1329
 ---
 Adoraríamos entrar em contato com você e ouvir suas ideias e
 questões. Nós nos esforçamos para crescer e melhorar constantemente e seu feedback
