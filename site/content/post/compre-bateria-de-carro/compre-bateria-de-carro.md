@@ -1,5 +1,5 @@
 ---
-title: Compre bateria de carro
+title: ' Onde Comprar Bateria de Carro de Qualidade no Bairro Jardim Prudência, São Paulo: Conheça a CL Baterias'
 date: 2024-05-07T15:04:00Z
 description: >-
   Brewing with a Chemex probably seems like a complicated, time-consuming
