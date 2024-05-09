@@ -4,6 +4,7 @@ logo: /img/logo-cl.svg
 contact_entries:
   - heading: Campo Belo
     text: Rua Édison, 1329
+contact_entries:
   - heading: Jd Prudência
     text: Av. Ver. João de Luca, 1020 - B
 ---
