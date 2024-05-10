@@ -1,8 +1,8 @@
 ---
-title: Compre bateria de carro
+title: Compre Bateria de Carro no Jardim Prudência
 date: 2024-05-07T15:04:00Z
 description: >-
-  "Encontre a solução para suas necessidades de bateria de carro com facilidade
+  Encontre a solução para suas necessidades de bateria de carro com facilidade
   no bairro Jardim Prudência, em São Paulo. Conheça a CL Baterias, sua parceira
   confiável e especializada em baterias automotivas. Neste guia, apresentaremos
   tudo o que você precisa saber sobre esta loja, localizada no coração do bairro
