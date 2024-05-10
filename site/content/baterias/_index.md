@@ -1,7 +1,7 @@
 ---
 title: Baterias
-description: Compre baterias na CL Baterias, o melhor preço é aqui!
-type: Baterias
+description: Loja de baterias perto de você com entrega rápida!
+type: 'Loja de Baterias '
 image: /uploads/baterias.jpg
 intro:
   heading: Dê partida com a CL Baterias!
