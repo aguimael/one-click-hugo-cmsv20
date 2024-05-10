@@ -1,5 +1,6 @@
 ---
 title: Contato
+description: solicite seu orçamento e receba sua bateria hoje!
 logo: /img/logo-cl.svg
 contact_entries:
   - heading: Campo Belo
