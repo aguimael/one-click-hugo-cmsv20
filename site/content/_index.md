@@ -1,6 +1,7 @@
 ---
 title: Precisando de bateria?
 subtitle: Entrega e instalação rápida!
+description: Loja de baterias perto de você com entrega rápida. Bateria de carro, Start-Stop, linha pesada e mais.
 image: /uploads/home-bateria.webp
 blurb:
     heading: Quem somos?
