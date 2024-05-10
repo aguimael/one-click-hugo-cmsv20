@@ -1,7 +1,7 @@
 ---
 title: Marcas
 description: As melhores marcas de baterias é aqui na CL Baterias!!
-image: /uploads/sobre-marca.svg
+image: /uploads/sobre-marcas.webp
 values:
   - heading: Baterias Moura
     text: >
