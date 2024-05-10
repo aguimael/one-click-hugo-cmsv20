@@ -2,7 +2,7 @@
 title: Baterias
 description: Loja de baterias perto de você com entrega rápida!
 type: 'Loja de Baterias '
-image: /uploads/baterias.jpg
+image: /uploads/bg-baterias.webp
 intro:
   heading: Dê partida com a CL Baterias!
   description: >-
