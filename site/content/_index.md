@@ -2,7 +2,7 @@
 title: Precisando de bateria?
 description: Loja de baterias perto de você com entrega rápida!
 subtitle: Instalação rápida!
-image: /uploads/bg-baterias.webp
+image:
     heading: Quem somos?
     text: >-
         Há mais de uma década, estamos orgulhosamente servindo como
