@@ -2,7 +2,7 @@
 title: Precisando de bateria?
 description: Loja de baterias perto de você com entrega rápida!
 subtitle: Instalação rápida!
-image: /img/home-jumbotron.jpg
+image: /img/home-bateria.webp
 blurb:
     heading: Quem somos?
     text: >-
