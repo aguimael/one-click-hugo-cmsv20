@@ -1,7 +1,7 @@
 ---
 title: Precisando de bateria?
 description: Loja de baterias perto de você com entrega rápida!
-subtitle: Entrega e instalação rápida!
+subtitle: Instalação rápida!
 image: /uploads/home-bateria.webp
 blurb:
     heading: Quem somos?
