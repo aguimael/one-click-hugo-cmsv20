@@ -47,37 +47,10 @@ testimonials:
       bateria e a troca foi rápida...
 full_image: /uploads/loja-de-bterias.jpg
 pricing:
-  heading: Preço de baterias
+  heading: Preço de bateria Start-Stop
   description: >-
-    Compre baterias para seu carro e pague em até 10x sem juros nos cartões.
-    Além disso, aproveite nossa promoção de entrega e instalação totalmente
-    gratuitas. Não perca essa oportunidade de garantir mais praticidade e
-    segurança para o seu veículo com total comodidade!
-  plans:
-    - description: Baterias para carros
-      items:
-        - Entrega e instalação gratis
-        - Até 10x sem juros
-        - Baterias originais
-      plan: A partir de
-      price: '299'
-    - description: Bateria Start-Stop
-      items:
-        - Entrega e instalação gratis
-        - Até 10x sem juros
-        - Baterias originais
-      plan: A partir de
-      price: '499'
-    - description: Bateria linha pesada
-      items:
-        - Entrega e instalação gratis
-        - Até 10x sem juros
-        - Baterias originais
-      plan: A partir de
-      price: '599'
-    - description: ''
-      items:
-        - ''
-      plan: ''
-      price: ''
+    Compre bateria Start-Stop para seu carro e pague em até 10x sem juros nos
+    cartões. Além disso, aproveite nossa promoção de entrega e instalação
+    totalmente gratuitas. Não perca essa oportunidade de garantir mais
+    praticidade e segurança para o seu veículo com total comodidade!
 ---
