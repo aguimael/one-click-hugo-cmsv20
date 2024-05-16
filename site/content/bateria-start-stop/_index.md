@@ -13,12 +13,7 @@ intro:
     exigem eficiência e confiabilidade, nossa bateria é uma solução inovadora
     para maximizar o desempenho do seu carro.
   blurbs:
-    - image: /uploads/produto-bateria-moto-1.svg
-      text: Selecione o modelo do veículo e o local de entrega
-    - image: /uploads/produto-bateria-estacionaria-1.svg
-      text: Finalize o pedido e o pagamento será somente na entrega
-    - image: /uploads/produto-bateria-carro-1.svg
-      text: A CL Baterias vai até você com entrega e instalação grátis
+   
 main:
   heading: A CL Baterias é a sua parceira completa em energia
   description: >
