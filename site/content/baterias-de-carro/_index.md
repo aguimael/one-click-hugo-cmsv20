@@ -1,7 +1,8 @@
 ---
-title: Baterias
+title: Bateria de Carro
+subtitle: Entrega e Instalação rápida! Compre em até 10x sem juros
 description: >-
-  Encontre baterias perto de você! Entrega rápida de baterias de carro,
+  Encontre bateria de carro perto de você! Entrega rápida de baterias de carro,
   Start-Stop e linha pesada. Ligue agora: (11) 2503-1927.
 type: Loja de Baterias | Peça Já (11) 2503-1927
 image: /uploads/bg-baterias.webp
