@@ -1,8 +1,8 @@
 ---
-title: Baterias
+title: Bateria de Ônibus e Caminhão
 description: >-
-  Encontre baterias perto de você! Entrega rápida de baterias de carro,
-  Start-Stop e linha pesada. Ligue agora: (11) 2503-1927.
+  Encontre bateria de ônibus e caminhão perto de você! Entrega rápida de
+  baterias de carro, Start-Stop e linha pesada. Ligue agora: (11) 2503-1927.
 type: Loja de Baterias | Peça Já (11) 2503-1927
 image: /uploads/bg-baterias.webp
 intro:
