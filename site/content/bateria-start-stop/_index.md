@@ -1,37 +1,24 @@
 ---
-title: Baterias Start-Stop
+title: Bateria Start-Stop
 description: >-
   Encontre bateria Start-Stop perto de você! Entrega rápida de baterias de
   carro, Start-Stop e linha pesada. Ligue agora: (11) 2503-1927.
 type: Loja de Baterias | Peça Já (11) 2503-1927
 image: /uploads/bg-baterias.webp
 intro:
-  heading: Dê partida com a CL Baterias!
+  heading: 'Desempenho Ininterrupto com a Bateria Start-Stop '
   description: >-
-    Bateria de Carro: A CL Baterias garante a partida rápida e confiável do seu
-    carro, com a tecnologia de chumbo-ácido mais avançada do mercado.
+    Potência inteligente para o motor do seu veículo está ao seu alcance com a
+    Bateria Start-Stop da CL Baterias. Projetada para os motoristas modernos que
+    exigem eficiência e confiabilidade, nossa bateria é uma solução inovadora
+    para maximizar o desempenho do seu carro.
   blurbs:
     - image: /uploads/produto-bateria-moto-1.svg
-      text: >
-        Bateria de Moto: Desfrute da liberdade e aventura com a bateria ideal
-        para sua motocicleta, proporcionando energia para longas viagens e
-        pilotagem segura.
+      text: Selecione o modelo do veículo e o local de entrega
     - image: /uploads/produto-bateria-estacionaria-1.svg
-      text: >
-        Bateria Estacionária: Tenha energia limpa e constante para sua casa ou
-        empresa com as baterias estacionárias da CL Baterias, perfeitas para
-        sistemas de energia solar e backup.
-    - image: /uploads/produto-bateria-caminhao.svg
-      text: >
-        Bateria de Linha Pesada: Mantenha seus veículos pesados sempre em
-        movimento com as baterias de linha pesada da CL Baterias, projetadas
-        para alta corrente de partida e confiabilidade duradoura.
-    - image: /uploads/produto-qualidade-2.svg
-      text: >
-        Em nossa loja, entendemos a importância de uma bateria confiável para a
-        segurança e desempenho do seu veículo. Por isso, oferecemos apenas
-        produtos testados e aprovados, com garantia de qualidade que só nossa
-        experiência no mercado pode oferecer.
+      text: Finalize o pedido e o pagamento será somente na entrega
+    - image: /uploads/produto-bateria-carro-1.svg
+      text: A CL Baterias vai até você com entrega e instalação grátis
 main:
   heading: A CL Baterias é a sua parceira completa em energia
   description: >
