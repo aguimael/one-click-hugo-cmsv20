@@ -1,9 +1,11 @@
 ---
 title: Bateria de Carro
 seo_options:
-  description: 
+  description: >-
+    Encontre bateria de carro perto de você! Entrega rápida de baterias de
+    carro, Start-Stop e linha pesada. Ligue agora: (11) 2503-1927.
   featured_image:
-  og_type: 
+  og_type:
   canonical_link:
 description: >-
   Encontre bateria de carro perto de você! Entrega rápida de baterias de carro,
@@ -71,5 +73,4 @@ pricing:
     cartões. Além disso, aproveite nossa promoção de entrega e instalação
     totalmente gratuitas. Não perca essa oportunidade de garantir mais
     praticidade e segurança para o seu veículo com total comodidade!
-
 ---
