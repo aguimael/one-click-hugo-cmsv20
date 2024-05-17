@@ -1,6 +1,9 @@
 ---
-title: Marcas
-description: As melhores marcas de baterias é aqui na CL Baterias!!
+title: Principais Marcas de Baterias
+description: >-
+  Descubra as principais marcas de baterias, como Moura e Pioneiro, e adquira as
+  suas na CL Baterias. Confie em nós para alimentar o seu veículo com qualidade
+  e confiabilidade.
 image: /uploads/sobre-marcas.webp
 values:
   - heading: Baterias Moura
