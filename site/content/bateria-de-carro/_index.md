@@ -1,5 +1,10 @@
 ---
 title: Bateria de Carro
+seo_options:
+  description: 
+  featured_image:
+  og_type: 
+  canonical_link:
 description: >-
   Encontre bateria de carro perto de você! Entrega rápida de baterias de carro,
   Start-Stop e linha pesada. Ligue agora: (11) 2503-1927.
