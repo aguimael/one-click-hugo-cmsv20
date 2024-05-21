@@ -11,7 +11,7 @@ description: >-
   Encontre bateria de carro perto de você! Entrega rápida de baterias de carro,
   Start-Stop e linha pesada. Ligue agora: (11) 2503-1927.
 type: Loja de Baterias | Peça Já (11) 2503-1927
-image: /uploads/bg-baterias.webp
+image: /uploads/loja-bateria-carro-11zon.webp
 intro:
   heading: Dê partida com a CL Baterias!
   description: >-
