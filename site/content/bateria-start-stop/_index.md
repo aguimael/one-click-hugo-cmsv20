@@ -21,10 +21,10 @@ main:
     Oferecemos o melhor custo-benefício do mercado, sem comprometer a qualidade.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /uploads/bateria-carro.jpg
+    image: /uploads/bateria-start-stop-carro0.webp
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /uploads/bateria-moto.jpg
+    image: /uploads/bateria-start-stop-carro10.webp
   image3:
     alt: Coffee beans
     image: /uploads/cliente-feliz-grid.webp
