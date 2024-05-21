@@ -2,7 +2,7 @@
 title: Precisando de bateria?
 description: Loja de baterias perto de você com entrega rápida!
 subtitle: Entrega e Instalação rápida! Compre em até 10x sem juros
-image: /uploads/home-baterias-1.webp
+image: /uploads/home-loja-bateria-clbaterias.webp
 blurb:
     heading: Quem somos?
     text: >-
