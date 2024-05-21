@@ -4,7 +4,7 @@ description: >-
   Encontre bateria Start-Stop perto de você! Entrega rápida de baterias de
   carro, Start-Stop e linha pesada. Ligue agora: (11) 2503-1927.
 type: Loja de Baterias | Peça Já (11) 2503-1927
-image: /uploads/bg-baterias.webp
+image: /uploads/bateria-start-stop-11zon.jpg
 intro:
   heading: 'Desempenho Ininterrupto com a Bateria Start-Stop '
   description: >-
@@ -13,7 +13,6 @@ intro:
     exigem eficiência e confiabilidade, nossa bateria é uma solução inovadora
     para maximizar o desempenho do seu carro.
   blurbs:
-   
 main:
   heading: A CL Baterias é a sua parceira completa em energia
   description: >
