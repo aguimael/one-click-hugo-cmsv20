@@ -25,7 +25,7 @@ collections_config:
     disable_add_folder: false
     disable_file_actions: false
   blog:
-    path: content/post
+    path: content/blog
     output: true
     icon: notes
     disable_add: false
