@@ -6,7 +6,7 @@ description: >-
   Conheça a CL Baterias.
 image: /static/content/post/compre-bateria-de-carro/cliente-feliz-grid.webp
 ---
-Se você está em busca de uma [bateria de carro]() confiável e de alta qualidade no bairro **Jardim Prudência**, em São Paulo, não precisa procurar mais longe. Neste guia, vamos apresentar a você a **CL Baterias**, a loja especializada em baterias automotivas que atende às suas necessidades no coração do bairro Jardim Prudência. Solicite seu orçamento pelo nosso [WhatsApp](https://api.whatsapp.com/send?phone=5511934986472) ou ligue [(11) 2503-1927](tel:+551125031927)
+Se você está em busca de uma [bateria de carro](https://www.clbaterias.com.br/) confiável e de alta qualidade no bairro **Jardim Prudência**, em São Paulo, não precisa procurar mais longe. Neste guia, vamos apresentar a você a **CL Baterias**, a loja especializada em baterias automotivas que atende às suas necessidades no coração do bairro Jardim Prudência. Solicite seu orçamento pelo nosso [WhatsApp](https://api.whatsapp.com/send?phone=5511934986472) ou ligue [(11) 2503-1927](tel:+551125031927)
 
 ## Compre Bateria de Carro no Jardim Prudência
 
