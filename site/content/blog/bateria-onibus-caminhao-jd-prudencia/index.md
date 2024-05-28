@@ -6,8 +6,6 @@ description: >-
   Paulo. Conheça a CL Baterias.
 image: blog-flavor_wheel.jpg
 ---
-Compre [bateria de ônibus e caminhão]() no Jardim Prudência com facilidade, em São Paulo. Conheça a CL Baterias.
-
 Se você está em busca de uma bateria de ônibus e caminhão confiável e de alta qualidade no bairro [Jardim Prudência](), em São Paulo, não precisa procurar mais longe. Neste guia, vamos apresentar a você a [CL Baterias](), a loja especializada em baterias automotivas que atende às suas necessidades no coração do bairro Jardim Prudência. Solicite seu orçamento pelo nosso [WhatsApp]() ou ligue [(11) 2503-1927]()
 
 ## Compre bateria de ônibus e caminhão no Jardim Prudência
