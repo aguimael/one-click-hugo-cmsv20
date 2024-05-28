@@ -5,9 +5,9 @@ description: >-
   Compre bateria start-stop no Jardim Prudência com facilidade, em São Paulo.
   Conheça a CL Baterias.
 ---
-Se você está em busca de uma<a href="https://www.clbaterias.com.br/bateria-start-stop" title="Bateria Start-Stop" target="_blank" rel="noopener"> bateria start-stop</a> confiável e de alta qualidade no bairro Jardim Prudência, em São Paulo, não precisa procurar mais longe.
+Se você está em busca de uma bateria start-stop confiável e de alta qualidade no bairro Jardim Prudência, em São Paulo, não precisa procurar mais longe.
 
-Neste guia, vamos apresentar a você a <a href="https://www.clbaterias.com.br/" title="Quem somos" target="_blank" rel="noopener">CL Baterias</a>, a loja especializada em baterias automotivas que atende às suas necessidades no coração do bairro Jardim Prudência. Solicite seu orçamento pelo nosso <a href="https://api.whatsapp.com/send?phone=5511934986472" title="Solicitar orçamento" target="_blank" rel="noopener">WhatsApp</a> ou ligue [(11) 2503-1927](tel:+551125031927 "Peça já")
+Neste guia, vamos apresentar a você a CL Baterias, a loja especializada em baterias automotivas que atende às suas necessidades no coração do bairro Jardim Prudência. Solicite seu orçamento pelo nosso WhatsApp ou ligue (11) 2503-1927
 
 ## Compre Bateria Start-Stop no Jardim Prudência
 
