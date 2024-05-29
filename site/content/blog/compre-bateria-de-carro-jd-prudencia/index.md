@@ -26,5 +26,3 @@ Com uma excelente infraestrutura de serviços e comércio, o bairro oferece tudo
 Visite a **CL Baterias** no **Jardim Prudência**
 
 Se você precisa de uma nova bateria para o seu carro e valoriza qualidade, variedade e atendimento excepcional, visite a CL Baterias no bairro Jardim Prudência, em São Paulo. Estamos aqui para atender às suas necessidades automotivas e garantir a sua satisfação. Venha nos conhecer hoje mesmo!
-
-&nbsp;
