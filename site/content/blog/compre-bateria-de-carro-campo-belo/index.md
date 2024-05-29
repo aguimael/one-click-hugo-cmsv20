@@ -23,7 +23,7 @@ Com serviço de **entrega rápida** e eficiente, a CL Baterias oferece a comodid
 
 Com uma excelente infraestrutura de serviços e comércio, o bairro oferece tudo o que você precisa para viver com conforto e praticidade. Além disso, sua localização estratégica proporciona fácil acesso às principais vias da cidade, incluindo a Avenida Washington Luís e a Marginal Pinheiros, tornando-o uma escolha popular entre os residentes e visitantes.
 
-A CL Baterias entrega sua bateria no Morumbi
+A CL Baterias entrega sua bateria no Campo Belo
 
 Se você precisa de uma nova bateria de carro para o seu veículo e valoriza qualidade, variedade e atendimento excepcional, visite a CL Baterias no bairro Campo Belo ou no Jardim Prudência em São Paulo. Estamos aqui para atender às suas necessidades automotivas e garantir a sua satisfação. Venha nos conhecer hoje mesmo!
 
