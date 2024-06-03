@@ -21,3 +21,5 @@ source_editor:
   show_gutter: true
 timezone: Etc/UTC
 collections_config_override: false
+plugins:
+  - jekyll-seo-tag
