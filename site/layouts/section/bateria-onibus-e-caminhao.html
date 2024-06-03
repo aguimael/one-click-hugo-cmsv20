@@ -2,7 +2,6 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-{% seo %}
 
 {{ partial "4-up" .Params.intro }}
 
@@ -26,7 +25,7 @@
 </div>
 
 <!-- Full-width image -->
-<img src="{{ .Params.full_image }}" alt="" class="db w-100">
+<img src="{{ .Params.full_image }}" alt="" class="db w-100" />
 
 {{ partial "table" .Params.pricing }}
 
