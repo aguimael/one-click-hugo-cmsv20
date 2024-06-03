@@ -1,14 +1,16 @@
 ---
-title: "Compre Bateria Start-Stop na Vila Santa Catarina"
-date: "2024-06-03T09:40:35.168544"
-description: "Entrega rápida e grátis. Compre Bateria Start-Stop na Vila Santa Catarina na CL Baterias!"
-image: "URL da imagem"
+title: Compre Bateria Start-Stop na Vila Santa Catarina
+date: 2024-06-03T09:40:35Z
+description: >-
+  Entrega rápida e grátis. Compre Bateria Start-Stop na Vila Santa Catarina na
+  CL Baterias!
+image: URL da imagem
 ---
 # Compre Bateria Start-Stop na Vila Santa Catarina
 
-Descrição: Entrega rápida e grátis. Compre Bateria Start-Stop na Vila Santa Catarina na CL Baterias!
+Entrega rápida e grátis. Compre Bateria Start-Stop na Vila Santa Catarina na CL Baterias!
 
-Modelo: Se você está em busca de uma [bateria de carro](https://www.clbaterias.com.br/bateria-de-carro) confiável e de alta qualidade no bairro <a href="https://www.google.com/maps/place/Vila+Santa+Catarina,+S%C3%A3o+Paulo+-+SP/data=!4m2!3m1!1s0x94ce5a2ac49678f3:0xa5385bd7b2e9897a?sa=X&ved=2ahUKEwjD0cH4r97zAhU21lkKHfHcA4UQ8gF6BAgDEAM" target="_blank" rel="noopener">Vila Santa Catarina</a>, em São Paulo, não precisa procurar mais longe. Neste guia, vamos apresentar a você a **CL Baterias**, a loja especializada em baterias automotivas que atende às suas necessidades no coração do bairro Vila Santa Catarina. Solicite seu orçamento pelo nosso [WhatsApp](https://api.whatsapp.com/send?phone=5511934986472) ou ligue [(11) 2503-1927](tel:+551125031927).
+Se você está em busca de uma [bateria start-stop](https://www.clbaterias.com.br/bateria-start-stop "Bateria Start-Stop") confiável e de alta qualidade no bairro <a href="https://www.google.com/maps/place/Vila+Santa+Catarina,+S%C3%A3o+Paulo+-+SP/data=!4m2!3m1!1s0x94ce5aa2c5a47ca5:0xd4ed4c045b8794ad?sa=X&amp;ved=1t:242&amp;ictx=111" target="_blank" rel="noopener">Vila Santa Catarina</a>, em São Paulo, não precisa procurar mais longe. Neste guia, vamos apresentar a você a **CL Baterias**, a loja especializada em baterias automotivas que atende às suas necessidades no coração do bairro Vila Santa Catarina. Solicite seu orçamento pelo nosso [WhatsApp](https://api.whatsapp.com/send?phone=5511934986472) ou ligue [(11) 2503-1927](tel:+551125031927).
 
 ## Compre Bateria de Carro na Vila Santa Catarina
 
