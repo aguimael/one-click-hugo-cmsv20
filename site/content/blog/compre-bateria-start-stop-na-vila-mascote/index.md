@@ -1,10 +1,12 @@
 ---
-title: "Compre Bateria Start-Stop na Vila Mascote"
-date: "2024-06-03T10:22:58.757737"
-description: "Entrega rápida e grátis. Compre Bateria Start-Stop na Vila Mascote na CL Baterias!"
-image: "URL da imagem"
+title: Compre Bateria Start-Stop na Vila Mascote
+date: 2024-06-03T10:22:58Z
+description: >-
+  Entrega rápida e grátis. Compre Bateria Start-Stop na Vila Mascote na CL
+  Baterias!
+image: URL da imagem
 ---
-Se você está em busca de uma **bateria Start-Stop** confiável e de alta qualidade na **Vila Mascote**, em São Paulo, não precisa procurar mais longe. Neste guia, vamos apresentar a você a **CL Baterias**, a loja especializada em baterias automotivas que atende às suas necessidades no coração da Vila Mascote. Solicite seu orçamento pelo nosso [WhatsApp](https://api.whatsapp.com/send?phone=5511934986472) ou ligue [(11) 2503-1927](tel:+551125031927).
+Se você está em busca de uma **bateria Start-Stop** confiável e de alta qualidade na <a href="https://www.google.com/maps/place/Vila+Mascote,+S%C3%A3o+Paulo+-+SP/@-23.645293,-46.6695087,17z/data=!3m1!4b1!4m6!3m5!1s0x94ce5a994f04bb23:0x2bc90560e26a87ae!8m2!3d-23.6464109!4d-46.6669128!16s%2Fg%2F120k5x43?entry=ttu" target="_blank" rel="noopener"><strong>Vila Mascote</strong></a>, em São Paulo, não precisa procurar mais longe. Neste guia, vamos apresentar a você a **CL Baterias**, a loja especializada em baterias automotivas que atende às suas necessidades no coração da Vila Mascote. Solicite seu orçamento pelo nosso [WhatsApp](https://api.whatsapp.com/send?phone=5511934986472) ou ligue [(11) 2503-1927](tel:+551125031927).
 
 ## Compre Bateria Start-Stop na Vila Mascote
 
