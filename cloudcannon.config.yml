@@ -40,3 +40,6 @@ collections_config:
     disable_file_actions: false
 data_config: {}
 timezone: Etc/UTC
+plugins:
+  - jekyll-seo-tag
+
