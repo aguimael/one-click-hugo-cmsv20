@@ -3,8 +3,8 @@ title: Contato
 description: solicite seu orçamento e receba sua bateria hoje!
 logo: /img/logo-cl.svg
 contact_entries:
-  - heading: Jd Prudência
-    text: Av. Ver. João de Luca, 1020 - B
+  - heading: Unidades Jd Prudência e Campo Belo
+    text: Entrega e instalação grátis
 ---
 Na CL Baterias, estamos sempre à disposição para atender você. Caso tenha alguma dúvida, sugestão ou queira solicitar um orçamento de baterias, entre em contato conosco. Nossa equipe está pronta para ajudar!
 
