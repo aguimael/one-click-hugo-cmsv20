@@ -13,36 +13,6 @@
     {{ with $script.js }}
       <script src="{{ relURL . }}"></script>
     {{ end }}
-    <script>
-    var url = 'https://edna.io/wp-content/plugins/whatsapp-widget-generator/js/generator.js?29191';
-    var s = document.createElement('script');
-    s.type = 'text/javascript';
-    s.async = true;
-    s.src = url;
-    var options = {
-  "host":"https://edna.io",
-  "enabled":true,
-  "chatButtonSetting":{
-      "backgroundColor":"#4fce5d",
-      "ctaText":"Solicitar Orçamento",
-      "icon":"whatsapp",
-      "position":"right",
-  },
-  "brandSetting":{
-      "backgroundColor":"#ff6600",
-      "brandImg":"https://edna.io/wp-content/plugins/whatsapp-widget-generator/img/edna-logo.svg",
-      "brandName":"Maynara",
-      "brandSubTitle":"Orçamento",
-      "ctaText":"Enviar",
-      "phoneNumber":"5511934986472",
-      "welcomeText":"Olá, que bom ter você aqui, como posso ajuda-lo(a) hoje?"
-  }
-};
-    s.onload = function() {
-        CreateWhatsappChatWidget(options);
-    };
-    var x = document.getElementsByTagName('script')[0];
-    x.parentNode.insertBefore(s, x);
-</script>
+    <script>window.rwbp={email:'hgtbaterias@gmail.com',phone:'5511934986472',message:'Olá, seja bem vindo! Como podemos te ajudar?',lang:'pt-BR'}</script><script defer async src='https://duz4dqsaqembt.cloudfront.net/client/whats.js'></script>
   </body>
 </html>
